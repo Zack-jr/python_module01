@@ -16,4 +16,4 @@ print(f'{third.name}: {third.height}cm, {third.age} days old')
 # almost like structs but need to define with class and use __init__ to create the variables
 # use a "self" variable in the definition to store the data
 # and assign values
-# access values like structs
+# access values like structs in C

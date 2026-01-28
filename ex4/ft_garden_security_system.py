@@ -34,7 +34,5 @@ plant1.set_age(12)
 
 print(f'Current plant: {plant1.plant_name} ({plant1.get_height()}cm, {plant1.get_age()} days)')
 
-# initializing the object and his attributes with an underscore to hide the object's attributes
-# not initializing plant_name as _plant_name since we don't have a get_name method here so it's pointless
-# to hide the name
+# hiding the object's attributes with an underscore to add a small protection
 # adding conditons to the methods to make sure the value is not getting corrupted
