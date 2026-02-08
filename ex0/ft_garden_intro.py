@@ -8,5 +8,5 @@ if __name__ == "__main__":
     print(f'Age: {age}\n')
     print('=== End of Program ===')
 
-# prevents this block of code from being executed when imported 
+# prevents this block of code from being executed when imported
 # in another file
